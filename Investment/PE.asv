@@ -1,0 +1,6 @@
+main = readfis('PE.fis')
+a = input('Enter PE value:');
+b = 
+c = 
+d = evalfis(a,main);
+disp(["Total money To invest",num2str(b)])
